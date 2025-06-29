@@ -6,5 +6,5 @@
 ### 📚 Conceitos utilizados na resolução:
 
 - Classe Scanner do Java.
-- Tipos primitivos.
+- Tipos primitivos e classe String.
   
